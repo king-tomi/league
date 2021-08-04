@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: league-maker
+Version: 1.0.0
+Summary: create new league, team, player and fixtures with ease
+Home-page: https://github.com/king-tomi/league
+Author: Ayodabo Tomisin
+License: MIT
+Description: ## HI! This is a python library for football lovers!
+        
+        ### This Library is a small one and pretty simple
+        
+        ## Enjoy!!
+        
+        This code is published on <a href="https://github.com/king-tomi/league">Github</a>
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
