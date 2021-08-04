@@ -1,0 +1,15 @@
+README.md
+setup.py
+fixture/__init__-4.py
+fixture/fixture.py
+league/__init__-3.py
+league/league.py
+league_maker.egg-info/PKG-INFO
+league_maker.egg-info/SOURCES.txt
+league_maker.egg-info/dependency_links.txt
+league_maker.egg-info/requires.txt
+league_maker.egg-info/top_level.txt
+player/__init__-2.py
+player/player.py
+team/__init__-1.py
+team/team.py
